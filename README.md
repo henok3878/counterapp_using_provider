@@ -1,2 +1,2 @@
 # counterapp_using_provider
-Implementation of counter app using provider.
+Implementation of the default counter app using provider package.
