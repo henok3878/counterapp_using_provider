@@ -1,6 +1,6 @@
 # counter_provider
 
-A new Flutter project.
+Implementation of the default counter app using provider package.
 
 ## Getting Started
 
